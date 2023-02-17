@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nimport List from \"../components/List\";\n\nfunction Home(_ref) {\n  var results = _ref.results;\n  return __jsx(React.Fragment, null, __jsx(List, {\n    results: results\n  }));\n}\n\nexport var __N_SSG = true;\nexport default Home;","map":null,"metadata":{},"sourceType":"module"}

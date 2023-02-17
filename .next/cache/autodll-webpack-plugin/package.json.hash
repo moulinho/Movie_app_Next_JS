@@ -1,0 +1,1 @@
+{"name":"next-movie-omdb","version":"1.0.0","description":"","main":"index.js","scripts":{"dev":"next","build":"next build","start":"next start"},"keywords":[],"author":"","license":"ISC","dependencies":{"next":"^9.4.2","node-fetch":"^2.6.0","react":"^16.13.1","react-dom":"^16.13.1"},"readme":"ERROR: No README data found!","_id":"next-movie-omdb@1.0.0"}

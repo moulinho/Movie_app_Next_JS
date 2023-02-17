@@ -1,0 +1,20 @@
+body {
+  color: #333;
+}
+h1 {
+  margin-left: 18%;
+  margin-top: 12px;
+}
+.nav-pills .nav-link.isActive,
+.nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #9b59b6;
+}
+
+.nav-pills span {
+  color: #9b59b6;
+  cursor: pointer;
+}
+.title:hover {
+  cursor: pointer;
+}
